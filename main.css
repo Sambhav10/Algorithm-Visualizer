@@ -57,8 +57,9 @@ body {
     position: absolute;
     left: 2%;
     bottom: 5%;
-    background-color: rgb(0, 183, 255);
+    background-color: #DEB887;
     transition: 0.2s all ease;
+    margin-right: 10px;
 }
   
 .barLevel {
